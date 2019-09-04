@@ -1,2 +1,2 @@
-# TryJenkinsPass
-Trigger Newman Collection run from Jenkins and build CI with Travis
+# Test-Jenkins-Newman
+Testing Jenkins Integration with Newman

@@ -1,0 +1,26 @@
+{
+  "name": "Test-Jenkins-Newman",
+  "version": "1.0.0",
+  "description": "Testing Jenkins integration using Newman.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamir4hmed/Test-Jenkins-Newman.git"
+  },
+  "author": "Aamir Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aamir4hmed/Test-Jenkins-Newman/issues"
+  },
+  "homepage": "https://github.com/aamir4hmed/Test-Jenkins-Newman#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "newman": "^4.4.1",
+    "nodemon": "^1.18.9",
+    "standard": "^12.0.1"
+  }
+}
